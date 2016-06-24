@@ -1,0 +1,48 @@
+.root {
+	-fx-background-image: url("hawaiian_pattern.jpg");
+	-fx-background-repeat: repeat; 
+	-fx-background-color: white;
+	-fx-font-family: "Courier Sans Serif";
+}
+
+#playerHeader {
+	-fx-font-size: 90;
+}
+
+#headerBox {
+	-fx-padding: 100 0 0 0;
+}
+
+#optionBox {
+	-fx-padding: 0 0 100 0;
+}
+
+#selectOption {
+	
+}
+
+	#gameIcon {
+
+	}
+
+		#gameName {
+			-fx-font-size: 30;
+			-fx-text-alignment: center;
+		}
+
+#playerButton {
+	-fx-padding: 25 100 25 100;
+}
+
+#gameChooser {
+
+}
+
+#arrow:hover  {
+	-fx-opacity: 0.8;
+}
+
+#pauseContainer {
+	-fx-background-color: purple;
+	-fx-opacity: 0.7;
+}
